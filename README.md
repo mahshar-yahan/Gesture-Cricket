@@ -21,5 +21,5 @@ In this project, we utilize the MediaPipe library to recognize hand gestures, sp
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fingermatch-cricket.git
+git clone https://github.com/mahshar-yahan/Gesture-Cricket.git
 cd fingermatch-cricket
